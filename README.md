@@ -7,3 +7,4 @@ There are 45,000 unique quotes and their authors.
 The only file that needs to be changed is the main file.
 You will need a Twilio account in order to send the texts. They do a free trial with $15 worth of texts.
 I scheduled the program to run at a specified time through the Task Scheduler on Windows11.
+To download just download the Zip folder it contains all the files shown in the repository
