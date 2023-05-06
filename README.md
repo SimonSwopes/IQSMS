@@ -21,7 +21,7 @@ Make sure you add it to the path.
 Now for the Dependencies
 In the command prompt type these lines
 '''console
-/code py -m ensurepip --upgrade
-/code pip install twilio
-/code pip install pandas
+py -m ensurepip --upgrade
+pip install twilio
+pip install pandas
 '''
