@@ -38,7 +38,7 @@ class User():
 
     def sendSMS(self, targetNum: str):
         if len(targetNum) != 12:
-            raise ("Invalid Client Number")
+            raise Exception("Invalid Client Number")
         msg = self.__quotes.get_quote()
         self.__deliverText(msg, targetNum)
 
