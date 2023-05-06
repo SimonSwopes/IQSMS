@@ -20,9 +20,8 @@ Make sure you add it to the path.
 
 Now for the Dependencies
 In the command prompt type these lines
-'''console
-py -m ensurepip --upgrade
-'''
-pip install twilio
-pip install pandas
-'''
+```console
+C:\Users\Username>py -m ensurepip --upgrade
+C:\Users\Username>pip install twilio
+C:\Users\Username>pip install pandas
+```
