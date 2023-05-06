@@ -1,6 +1,6 @@
 # IQSMS
 A small passion project that text a target number an inspirational quote.
-[Quotes are from the data base](https://sharpquotes.com/download-45500-famous-motivational-quotes-database-in-excel-and-pdf/)
+[Quotes DataBase](https://sharpquotes.com/download-45500-famous-motivational-quotes-database-in-excel-and-pdf/)
 It will remove the quote sent to avoid sending the same quote multiple times.
 There are 45,000 unique quotes and their authors.
 
